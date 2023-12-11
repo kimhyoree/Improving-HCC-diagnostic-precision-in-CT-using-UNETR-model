@@ -1,4 +1,4 @@
-# Enhancing Hepatocellular Carcinoma(HCC) Tumor Segmentation through Aortic Contrast-Enhanced Imaging with UNETR" 
+# Enhancing Hepatocellular Carcinoma(HCC) Tumor Segmentation through Aortic Contrast-Enhanced Imaging with UNETR
 
 ## Abstract
 I conducted a research project focused on enhancing the diagnostic precision of Hepatocellular Carcinoma (HCC) using the UNETR model. The primary objective was to improve the contrast enhancement of HCC tumors for better segmentation and detection. A significant part of this project involved adjusting the HCC contrast through the aorta contrast, which proved to be a crucial factor in achieving more accurate tumor segmentation.
